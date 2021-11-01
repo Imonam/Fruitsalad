@@ -1,8 +1,9 @@
-li{color: bisque; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
-*{background-color: maroon;}
+li{color: rgb(0, 255, 110); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+*{background-color: rgb(255, 242, 168); text-align: center;}
 img{    width: 400px;}
 #benefits{    width: 800px;    margin-left: 350px;    color: darkviolet;    font-size: 20px;}
 .steps{    width: 800px;    text-align: left;    margin-left: 540px;    color: darkgreen;    font: 20px;}
 li:nth-child(2){    color: red;}
 li:nth-child(3){    color: blue;}
 hr{    background-color: black;}
+h1{text-align: center;}
